@@ -1,0 +1,64 @@
+questionID	questions_without_stopwords	
+{"searchResults": []}
+
+{"searchResults": [
+{"jsonClass": "ElasticSearchResult", "searchHit": "Add an aqueous solution of pH = 2.", "hitTuples": [], "searchScore": 3.4268884658813477, "index": "waterloo-2018-04-10"}, 
+{"jsonClass": "ElasticSearchResult", "searchHit": "Add 30% NaOH solution and adjust to pH 7.", "hitTuples": [], "searchScore": 3.0878665447235107, "index": "waterloo-2018-04-10"}, 
+{"jsonClass": "ElasticSearchResult", "searchHit": "c) Add an aqueous solution of pH 2.", "hitTuples": [], "searchScore": 2.93733286857605, "index": "waterloo-2018-04-10"}, 
+{"jsonClass": "ElasticSearchResult", "searchHit": "c) Add an aqueous solution of pH 2.", "hitTuples": [], "searchScore": 2.93733286857605, "index": "waterloo-2018-04-10"}, 
+{"jsonClass": "ElasticSearchResult", "searchHit": "Label test tubes as follows: A- pH 2, B-pH 3, C-pH 5, D-pH 7, E-pH 8, F-pH 9, G-pH 12, H-pH 14 Add 3 ml of the indicator solution prepared in part 1 to each of the tubes.", "hitTuples": [
+{"baseTriple": 
+{"subject": 
+{"surfaceForm": "Label test tubes"}, "predicate": 
+{"surfaceForm": "follows"}, "objects": [
+{"surfaceForm": ""}]}, "sourceSentence": "Label test tubes as follows: A- pH 2, B-pH 3, C-pH 5, D-pH 7, E-pH 8, F-pH 9, G-pH 12, H-pH 14 Add 3 ml of the indicator solution prepared in part 1 to each of the tubes.", "factSource": "LuceneTuples", "additionalTriples": [], "extractionConfidence": 0.72}, 
+{"baseTriple": 
+{"subject": 
+{"surfaceForm": "Label test tubes"}, "predicate": 
+{"surfaceForm": "follows"}, "objects": [
+{"surfaceForm": ""}]}, "sourceSentence": "Label test tubes as follows: A- pH 2, B-pH 3, C-pH 5, D-pH 7, E-pH 8, F-pH 9, G-pH 12, H-pH 14 Add 3 ml of the indicator solution prepared in part 1 to each of the tubes", "factSource": "LuceneTuples", "additionalTriples": [], "extractionConfidence": 0.72}], "searchScore": 2.9283666610717773, "index": "waterloo-2018-04-10"}, 
+{"jsonClass": "ElasticSearchResult", "searchHit": "Concentrations of Pb in soil solution reach a minimum between pH 5 and 6 and increase below pH 4 to 5 and above pH 6 to 7, because metal-organic complexes form in this pH range(2).", "hitTuples": [
+{"baseTriple": 
+{"subject": 
+{"surfaceForm": "Concentrations of Pb in soil solution"}, "predicate": 
+{"surfaceForm": "reach"}, "objects": [
+{"surfaceForm": "a minimum between pH 5 and 6"}]}, "sourceSentence": "Concentrations of Pb in soil solution reach a minimum between pH 5 and 6 and increase below pH 4 to 5 and above pH 6 to 7, because metal-organic complexes form in this pH range(2).", "factSource": "LuceneTuples", "additionalTriples": [], "extractionConfidence": 0.96}, 
+{"baseTriple": 
+{"subject": 
+{"surfaceForm": "Concentrations of Pb in soil solution"}, "predicate": 
+{"surfaceForm": "increase"}, "objects": [
+{"surfaceForm": "to 7"}]}, "sourceSentence": "Concentrations of Pb in soil solution reach a minimum between pH 5 and 6 and increase below pH 4 to 5 and above pH 6 to 7, because metal-organic complexes form in this pH range(2).", "factSource": "LuceneTuples", "additionalTriples": [], "extractionConfidence": 0.96}, 
+{"baseTriple": 
+{"subject": 
+{"surfaceForm": "Concentrations of Pb in soil solution"}, "predicate": 
+{"surfaceForm": "reach"}, "objects": [
+{"surfaceForm": "a minimum between pH 5 and 6"}]}, "sourceSentence": "Concentrations of Pb in soil solution reach a minimum between pH 5 and 6 and increase below pH 4 to 5 and above pH 6 to 7, because metal-organic complexes form in this pH range(2)", "factSource": "LuceneTuples", "additionalTriples": [], "extractionConfidence": 0.96}, 
+{"baseTriple": 
+{"subject": 
+{"surfaceForm": "Concentrations of Pb in soil solution"}, "predicate": 
+{"surfaceForm": "increase"}, "objects": [
+{"surfaceForm": "to 7"}]}, "sourceSentence": "Concentrations of Pb in soil solution reach a minimum between pH 5 and 6 and increase below pH 4 to 5 and above pH 6 to 7, because metal-organic complexes form in this pH range(2)", "factSource": "LuceneTuples", "additionalTriples": [], "extractionConfidence": 0.96}], "searchScore": 2.825319766998291, "index": "waterloo-2018-04-10"}, 
+{"jsonClass": "ElasticSearchResult", "searchHit": "If CO 2 is removed from the solution, the pH will increase.", "hitTuples": [
+{"baseTriple": 
+{"subject": 
+{"surfaceForm": "CO 2"}, "predicate": 
+{"surfaceForm": "is removed"}, "objects": [
+{"surfaceForm": "from the solution"}]}, "sourceSentence": "If CO 2 is removed from the solution, the pH will increase.", "factSource": "LuceneTuples", "additionalTriples": [], "extractionConfidence": 0.93}, 
+{"baseTriple": 
+{"subject": 
+{"surfaceForm": "the pH"}, "predicate": 
+{"surfaceForm": "will increase"}, "objects": [
+{"surfaceForm": ""}]}, "sourceSentence": "If CO 2 is removed from the solution, the pH will increase.", "factSource": "LuceneTuples", "additionalTriples": [], "extractionConfidence": 0.58}, 
+{"baseTriple": 
+{"subject": 
+{"surfaceForm": "CO 2"}, "predicate": 
+{"surfaceForm": "is removed"}, "objects": [
+{"surfaceForm": "from the solution"}]}, "sourceSentence": "If CO 2 is removed from the solution, the pH will increase", "factSource": "LuceneTuples", "additionalTriples": [], "extractionConfidence": 0.93}, 
+{"baseTriple": 
+{"subject": 
+{"surfaceForm": "the pH"}, "predicate": 
+{"surfaceForm": "will increase"}, "objects": [
+{"surfaceForm": ""}]}, "sourceSentence": "If CO 2 is removed from the solution, the pH will increase", "factSource": "LuceneTuples", "additionalTriples": [], "extractionConfidence": 0.58}], "searchScore": 2.823319911956787, "index": "waterloo-2018-04-10"}, 
+{"jsonClass": "ElasticSearchResult", "searchHit": "to increase the pH in acidic soil, add limestone, 2.", "hitTuples": [], "searchScore": 2.8020777702331543, "index": "waterloo-2018-04-10"}, 
+{"jsonClass": "ElasticSearchResult", "searchHit": "increased to 2 times what it was at pH 7.", "hitTuples": [], "searchScore": 2.6220052242279053, "index": "waterloo-2018-04-10"}, 
+{"jsonClass": "ElasticSearchResult", "searchHit": "increased to 2 times what it was at pH 7.", "hitTuples": [], "searchScore": 2.6220052242279053, "index": "waterloo-2018-04-10"}]}
